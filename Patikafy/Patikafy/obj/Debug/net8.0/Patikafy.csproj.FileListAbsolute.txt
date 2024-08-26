@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\Patikafy\Patikafy\bin\Debug\net8.0\Patikafy.exe
+D:\Yazılım\Repository\Patikafy\Patikafy\bin\Debug\net8.0\Patikafy.deps.json
+D:\Yazılım\Repository\Patikafy\Patikafy\bin\Debug\net8.0\Patikafy.runtimeconfig.json
+D:\Yazılım\Repository\Patikafy\Patikafy\bin\Debug\net8.0\Patikafy.dll
+D:\Yazılım\Repository\Patikafy\Patikafy\bin\Debug\net8.0\Patikafy.pdb
+D:\Yazılım\Repository\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.AssemblyInfo.cs
+D:\Yazılım\Repository\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.dll
+D:\Yazılım\Repository\Patikafy\Patikafy\obj\Debug\net8.0\refint\Patikafy.dll
+D:\Yazılım\Repository\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.pdb
+D:\Yazılım\Repository\Patikafy\Patikafy\obj\Debug\net8.0\Patikafy.genruntimeconfig.cache
+D:\Yazılım\Repository\Patikafy\Patikafy\obj\Debug\net8.0\ref\Patikafy.dll
