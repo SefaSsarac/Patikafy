@@ -24,5 +24,10 @@ En yüksek albüm satışına sahip şarkıcı belirlenir ve bilgileri görünt�
 En Yeni ve En Eski Çıkış Yapan Şarkıcı
 
 En yeni ve en eski çıkış yılına sahip şarkıcılar tespit edilir ve bilgileri gösterilir.
+
 --Kullanım--
+
 Bu kodu çalıştırdığınızda, şarkıcı verileri üzerinde çeşitli filtreleme ve sıralama işlemleri gerçekleştirilir. Her sorgu için sonuçlar ekrana yazdırılır.
+
+--Kullanılan Teknoloji--
+Bu proje C# programlama dili kullanılarak geliştirilmiştir. Kodda, veri işleme ve sorgulama işlemleri için LINQ (Language Integrated Query) kullanılmaktadır.
